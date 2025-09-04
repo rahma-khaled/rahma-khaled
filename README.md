@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello 👋 I'm Rahma
 
-<!--
-**rahma-khaled/rahma-khaled** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Computer Science student  
+- 💻 Passionate about Web Development , Data Analysis  and Data Science
+- 🌱 Currently learning Cloud Computing 
+- 🎯 Interested in solving real-world problems with code and participating in programming contests like ICPC  
 
-Here are some ideas to get you started:
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmaElhalawany&show_icons=true&theme=tokyonight)
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rahma-khaled007/)  
+- [Kaggle](https://www.kaggle.com/rahmaelhalawany)  
+- 📧 Email: rahmaelhalawany007@gmail.com
