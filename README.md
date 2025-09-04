@@ -14,7 +14,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 
 ## GitHub Stats
-![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=RahmaElhalawany&show_icons=true&theme=tokyonight)
+![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahma-khaled&show_icons=true&theme=tokyonight)
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rahma-khaled007/)  
