@@ -21,6 +21,5 @@
 
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rahma-khaled007/)  
-- [Kaggle](https://www.kaggle.com/rahmaelhalawany)  
+- [LinkedIn](https://www.linkedin.com/in/rahma-khaled007/)   
 - 📧 Email: rahmaelhalawany007@gmail.com
