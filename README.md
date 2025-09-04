@@ -16,6 +16,10 @@
 ## GitHub Stats
 ![Rahma's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahma-khaled&show_icons=true&theme=tokyonight)
 
+## 🖥️ Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahma-khaled&layout=compact&theme=tokyonight)
+
+
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rahma-khaled007/)  
 - [Kaggle](https://www.kaggle.com/rahmaelhalawany)  
